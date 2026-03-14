@@ -446,8 +446,8 @@ If you use this project in research, please cite:
 ```bibtex
 @software{cloud_failure_prediction_2024,
   title={Cloud System Failure Prediction Using Google ClusterData 2019},
-  author={AI Research Team},
-  year={2024},
+  author={Muskan Fatima},
+  year={2026},
   url={https://github.com/your-org/cloud-failure-prediction}
 }
 ```
@@ -457,7 +457,7 @@ If you use this project in research, please cite:
 For questions or issues:
 1. Check existing issues in repository
 2. Create a new GitHub issue
-3. Contact: ai-research@example.com
+3. Contact: muskanxshah@gmail.com
 
 ---
 
