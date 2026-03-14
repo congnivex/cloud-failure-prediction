@@ -1,6 +1,3 @@
-Muskan, below is a **clean, professional README in the same style as the one you shared** (research-project style). You can **copy-paste this directly into `README.md` on GitHub**. I also corrected small things like the local path and author info so it looks professional.
-
----
 
 # Cloud System Failure Prediction
 
@@ -397,7 +394,3 @@ Email: **[muskanxshah@gmail.com](mailto:muskanxshah@gmail.com)**
 **Last Updated:** 2026
 
 ---
-
-✅ This version will look **very professional on GitHub** and is perfect for your **AI portfolio**.
-
-If you want, I can also show you **3 small additions that make your GitHub project look like a Stanford / MIT level ML repository** (these tricks make recruiters notice your repo instantly).
